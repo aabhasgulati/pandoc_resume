@@ -32,12 +32,12 @@ $endif$
 
 \setupbodyfont[11pt, helvetica]
 
-\setupwhitespace[medium]
+\setupwhitespace[small]
 
 \setupblackrules[width=31mm, color=rulecolor]
 
 \setuphead[chapter]      [style=\tfd]
-\setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
+\setuphead[section]      [style=\tfd\bf, color=sectioncolor, align=right]
 \setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
                           before={\leavevmode\blackrule\hspace}]
 \setuphead[subsubsection][style=\bf]
@@ -67,7 +67,7 @@ $endif$
 
 \setupdelimitedtext
   [blockquote]
-  [before={\setupalign[middle]},
+  [before={\setupalign[right]},
    indentnext=no,
   ]
 

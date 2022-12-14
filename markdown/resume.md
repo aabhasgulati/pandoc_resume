@@ -1,100 +1,107 @@
-Johnny Coder
+Aabhas Gulati
 ============
+
+> <ms18151@iisermohali.ac.in>
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> MS Student at Indian Institute of Science Education and Research, Mohali. I am interested in understanding quantum theory and thermodynamics through the lens of quantum information and mathematical rigor.
+
+> My present thesis work is on understanding classicality in quantum resource theories.
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2018-2023 (expected)
+:   **BS-MS Dual Degree**; Indian Institute of Science Education and Research (Mohali)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+	**Cumulative Performance Index** : 9.2/10 
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+	**Major** : Physics and  **Minor** : Mathematics
 
-    *Minor: Awesomeology*
+	**MS Thesis (working)**: *Emergence of classicality in quantum resource theories*
+
+2016-2018
+:   **AISSCE**, DAV Public School (Gurugram)
+
+    *Class 12* : 95.8%
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**MS Thesis (2022-Present)**  
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+:    **Emergence of classicality in resource theories**
+	
+	*Project Guide - Dr. Manabendra Nath Bera, DPS, IISER Mohali*
 
-* First item
+	* Understanding some results about classicality in multi-partite channels with large output spaces.
+	* Analyzing these results in context of resource theory of coherence, symmetric channels.
+	* Hope to provide some answers about quantum darwinism and distribution of timing information to many parties.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+**Fall Semester 2021** 
 
-**That Other Job You Had**
+:     **Understanding Fermi's two atom problem using QIT**
+	
+	*Project Guide - Dr. Manabendra Nath Bera, DPS, IISER Mohali*
 
-Also with a short description.
+	* Reviewed literature to understand the controversy around the problem, and Hegerfeldt's recent arguments.
 
-Technical Experience
---------------------
+	* Reviewed the causality literature in quantum information focussing on the classical paper by Beckman et al.  
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+	* Tried to understand causality violations in lattice systems.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+**Summer 2021**  
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+: 	**Symmetry and Quantum Information Theory**
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+	*Project Guide - Dr. Manabendra Nath Bera, DPS, IISER Mohali*
+	
+	* Reviewed  literature on the resource theory of reference frames andasymmetry. 
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+	* Presented the paper on extension of Noether's Theorem using QRT of asymmetry, and entropic conditions for state transformations. 
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+	* Tried to understand asymmetry in many-body systems.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+**Summer 2020** 
 
-[ref]: https://github.com/githubuser/superlongprojectname
+:      **QIT Methods to study neutrino oscillations**
 
-Extra Section, Call it Whatever You Want
+	  *Project Guide - Dr. Subhashish Banerjee, DPS, IIT Jodhpur*
+
+	* Peer reviewed a paper with my advisor on entropic uncertainty relation in neutrino oscillations
+	* Reviewed literature on LGtI inequalities for studying Neutrino/Meson systems.
+
+**Summer 2019** 
+
+: 	**Review of computational methods to study Schrodinger's Equation**
+	
+	*Project Guide - Dr. Ambresh Shivaji, DPS, IISER Mohali* 
+
+	* Learned computational methods and  solved the Schrodinger's equation for a variety of analytically untractable potentials and presented the results. Learned some analytic methods for quartic potentials
+
+Technical Skills
 ----------------------------------------
 
-* Human Languages:
+* **Mathematics** : Analysis, Probability, Operator Theory 
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+* **Programming** : Python, Julia 
 
-* Random tidbit
+Participation 
+----------------------------------------
 
-* Other sort of impressive-sounding thing you did
+* Convener of Phi@I, physics club of IISER Mohali (*2019-2021*)
+
+* Volunteer for foundation day workshops for school students (*2018. 2019*)
+* Volunteer for QFTA conference at IISER-M (*2019*)
+
+Awards
+-----------------------------------------
+
+* Recipient of KVPY Fellowship (*2018-2023*)
+
+* Winner (Team) - SWAN Radio Imaging Challenge (*2019*)
 
 ----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry

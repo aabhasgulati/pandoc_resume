@@ -11,7 +11,7 @@
 /* Whole document */
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    max-width: 800px;
+    max-width: 1000px;
     margin: auto;
     background: #FFFFFF;
     padding: 10px 10px 10px 10px;
@@ -45,21 +45,17 @@ h2:before {
     /* This is called "rulecolor" in the ConTeXt stylesheet. */
     background-color: #9CB770;
 }
-/* h2:hover { */
-/*     background-color: #397249; */
-/*     color: #FFFFFF; */
-/*     text-shadow: 1px 1px 1px #333; */
-/* } */
 
 /* Definitions */
 dt {
     float: left;
     clear: left;
-    width: 17%;
-    font-weight: bold;
+    width: 15%;
+    font-weight:bold;
 }
 dd {
     margin-left: 17%;
+    margin-right:10%;
     margin-bottom:7px;
 }
 p {
@@ -69,7 +65,7 @@ p {
 
 /* Blockquotes */
 blockquote {
-    text-align: center
+    text-align: left
 }
 
 /* Links */
